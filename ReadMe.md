@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Estudante Front-end<br>🌱 Estudante JavaScript<br>👯 Em busca de estágio<br>⚡ Pesquisador
 
 
