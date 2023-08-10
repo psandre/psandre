@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estudante Front-end<br>🌱 Estudante JavaScript<br>👯 Em busca de estágio<br>⚡ Pesquisador
+🔨 Estudante Front-end<br>⚒️ Estudante JavaScript<br>🏃 Em busca de estágio<br>👨‍💻 Pesquisador
 
 
 ## 🌐 Socials:
